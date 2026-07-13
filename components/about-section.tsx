@@ -58,7 +58,7 @@ export function AboutSection() {
               Halo! Saya <span className="text-primary">Rio Mahesa</span>
             </h3>
             <p className="text-muted-foreground mb-6 leading-relaxed text-pretty">
-              Saya adalah mahasiswa Teknik Informatika dengan NIM 230103036 yang memiliki passion dalam dunia teknologi dan pengembangan perangkat lunak. Perjalanan saya di dunia programming dimulai dari keingintahuan tentang bagaimana aplikasi dan website bekerja.
+              Saya adalah mahasiswa Teknik Informatika yang memiliki passion dalam dunia teknologi dan pengembangan perangkat lunak. Perjalanan saya di dunia programming dimulai dari keingintahuan tentang bagaimana aplikasi dan website bekerja.
             </p>
             <p className="text-muted-foreground mb-6 leading-relaxed text-pretty">
               Saat ini, saya fokus mempelajari berbagai teknologi modern seperti web development, mobile development, dan sedang mengeksplorasi bidang artificial intelligence. Saya percaya bahwa teknologi dapat membawa perubahan positif dalam kehidupan masyarakat.
