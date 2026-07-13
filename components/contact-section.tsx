@@ -12,7 +12,7 @@ const contactInfo = [
   {
     icon: Mail,
     title: "Email",
-    value: "riomahesa@email.com",
+    value: "riomahesa456@email.com",
     href: "mailto:riomahesa@email.com",
   },
   {
