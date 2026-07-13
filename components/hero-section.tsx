@@ -15,9 +15,6 @@ export function HeroSection() {
       <div className="absolute inset-0 bg-[linear-gradient(to_right,var(--border)_1px,transparent_1px),linear-gradient(to_bottom,var(--border)_1px,transparent_1px)] bg-[size:4rem_4rem] [mask-image:radial-gradient(ellipse_60%_50%_at_50%_0%,#000_70%,transparent_110%)] opacity-40" />
       
       {/* Gradient Orbs */}
-      <div className="absolute top-1/4 -right-1/4 w-[500px] h-[500px] bg-primary/20 rounded-full blur-[120px] animate-pulse" />
-      <div className="absolute bottom-1/4 -left-1/4 w-[400px] h-[400px] bg-accent/20 rounded-full blur-[100px] animate-pulse" />
-
       <div className="container mx-auto max-w-6xl relative z-10">
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           {/* Text Content */}
@@ -33,7 +30,6 @@ export function HeroSection() {
               transition={{ delay: 0.2 }}
               className="text-primary font-mono text-sm mb-4"
             >
-              {"// Hello, World! Saya"}
             </motion.p>
 
             <motion.h1
