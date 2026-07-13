@@ -20,12 +20,11 @@ export function Footer() {
           </div>
 
           <p className="text-sm text-muted-foreground flex items-center gap-1">
-            Dibuat dengan{" "}
+            {" "}
             <motion.span
               animate={{ scale: [1, 1.2, 1] }}
               transition={{ duration: 1, repeat: Infinity }}
             >
-              <Heart className="h-4 w-4 text-red-500 fill-red-500" />
             </motion.span>{" "}
              {new Date().getFullYear()}
           </p>
