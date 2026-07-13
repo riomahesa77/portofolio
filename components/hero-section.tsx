@@ -84,7 +84,7 @@ export function HeroSection() {
                 { icon: Github, href: "https://github.com/riomahesa77", label: "GitHub" },
                 { icon: Linkedin, href: "https://linkedin.com/in/rio-mahesa/", label: "LinkedIn" },
                 { icon: Instagram, href: "https://instagram.com/rioomhs", label: "Instagram" },
-                { icon: Mail, href: "#contact", label: "Email" },
+                { icon: Mail, href: "https://myaccount.google.com/", label: "Email" },
               ].map((social, index) => (
                 <motion.a
                   key={social.label}
