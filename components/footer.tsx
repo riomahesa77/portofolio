@@ -27,7 +27,7 @@ export function Footer() {
             >
               <Heart className="h-4 w-4 text-red-500 fill-red-500" />
             </motion.span>{" "}
-            oleh Rio Mahesa © {new Date().getFullYear()}
+             {new Date().getFullYear()}
           </p>
 
           <div className="flex items-center gap-4 text-sm text-muted-foreground">
