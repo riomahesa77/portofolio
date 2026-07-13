@@ -81,9 +81,9 @@ export function HeroSection() {
               className="flex items-center justify-center lg:justify-start gap-4 mb-8"
             >
               {[
-                { icon: Github, href: "#", label: "GitHub" },
-                { icon: Linkedin, href: "#", label: "LinkedIn" },
-                { icon: Instagram, href: "#", label: "Instagram" },
+                { icon: Github, href: "https://github.com/riomahesa77", label: "GitHub" },
+                { icon: Linkedin, href: "https://linkedin.com/in/rio-mahesa/", label: "LinkedIn" },
+                { icon: Instagram, href: "https://instagram.com/rioomhs", label: "Instagram" },
                 { icon: Mail, href: "#contact", label: "Email" },
               ].map((social, index) => (
                 <motion.a
