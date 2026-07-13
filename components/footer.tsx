@@ -16,7 +16,7 @@ export function Footer() {
           <div className="flex items-center gap-2 text-foreground">
             <Rocket className="h-5 w-5 text-primary" />
             <span className="font-semibold">Rio Mahesa</span>
-            <span className="text-muted-foreground text-sm">| NIM: 230103036</span>
+            <span className="text-muted-foreground text-sm">| </span>
           </div>
 
           <p className="text-sm text-muted-foreground flex items-center gap-1">
