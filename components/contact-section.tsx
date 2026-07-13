@@ -30,9 +30,9 @@ const contactInfo = [
 ]
 
 const socialLinks = [
-  { icon: Github, href: "#", label: "GitHub" },
-  { icon: Linkedin, href: "#", label: "LinkedIn" },
-  { icon: Instagram, href: "#", label: "Instagram" },
+  { icon: Github, href: "github.com/riomahesa77", label: "GitHub" },
+  { icon: Linkedin, href: "linkedin.com/in/rio-mahesa/", label: "LinkedIn" },
+  { icon: Instagram, href: "instagram.com/rioomhs", label: "Instagram" },
 ]
 
 export function ContactSection() {
